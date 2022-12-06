@@ -23,7 +23,7 @@
     "expo": "25.0.0",
     "native-base": "2.3.5",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.70.6",
     "react-native-geocoding": "^0.2.0",
     "react-native-material-dropdown": "^0.6.1",
     "react-native-modal-datetime-picker": "^4.13.0",
